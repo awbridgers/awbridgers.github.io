@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import styled from 'styled-components';
-import Logo from './logo.svg';
 import {repos} from './repos';
 import './App.css';
 import Card from './components/card';
