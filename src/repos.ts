@@ -4,6 +4,7 @@ import movieRatigns from './images/movie-ratings.png'
 import bsdBracketChallenge from './images/bsd-bracket-challenge.png'
 import tacticsTrainer from './images/tactics-trainer.png'
 import sc2Stats from './images/sc2-stats.png'
+import vocabList from './images/vocab-list.png'
 
 export const repos = [
   {
@@ -30,6 +31,14 @@ export const repos = [
     pagesURL: 'https://awbridgers.github.io/movie-ratings',
     image: movieRatigns,
     description: 'A Rotten Tomatoes style app where users can log on and rate movies watched at "Cage Club." Most movies include American icon, Nicolas Cage.'
+
+  },
+  {
+    title: "Vocab App",
+    repoURL: 'https://github.com/awbridgers/vocab-list',
+    pagesURL: 'https://www.dropbox.com/scl/fi/x8bdr1rb881tev5ablbfr/VocabList.apk?rlkey=wfp5gv98hw0kqxeyxzeg8wp7t&dl=0',
+    image: vocabList,
+    description: 'A React Native app to store words and improve the user\'s vocabulary.'
 
   },
   {

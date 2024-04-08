@@ -6,11 +6,12 @@ type Props = {
   pagesURL: string;
   image: string;
   desc: string;
+  onClick: ()=>void
 };
-const Card = ({title, repoURL, pagesURL, image, desc}: Props) => (
+const Card = ({title, repoURL, pagesURL, image, desc, onClick}: Props) => (
   <StyledCard>
     <div className="imageContainer">
-      <img className="image" src={image} alt={title} />
+      <img onClick = {onClick} className="image" src={image} alt={title} />
     </div>
     <div className = 'body'>
       <div className = 'title'>{title}</div>
@@ -52,6 +53,7 @@ const StyledCard = styled.div`
   .imageContainer{
     width:100%;
     font-size: 0px;
+    cursor: pointer;
   }
   .body{
     display: flex;
