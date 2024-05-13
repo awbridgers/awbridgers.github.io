@@ -34,6 +34,14 @@ export const repos = [
 
   },
   {
+    title: "React Native Tactics",
+    repoURL: 'https://github.com/awbridgers/tactics-app',
+    pagesURL: 'https://www.dropbox.com/scl/fi/3t8ejiqnpa1gjek65umtv/tactics-trainer.apk?rlkey=79aonubufscl9mbve846ze06k&st=3od8pwhd&dl=0',
+    image: lineupDataViewer,
+    description: 'A React Native tactics trainer to improve your chess on android.'
+
+  },
+  {
     title: "Vocab App",
     repoURL: 'https://github.com/awbridgers/vocab-list',
     pagesURL: 'https://www.dropbox.com/scl/fi/x8bdr1rb881tev5ablbfr/VocabList.apk?rlkey=wfp5gv98hw0kqxeyxzeg8wp7t&dl=0',
