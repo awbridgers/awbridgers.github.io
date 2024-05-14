@@ -6,6 +6,7 @@ import tacticsTrainer from './images/tactics-trainer.png'
 import sc2Stats from './images/sc2-stats.png'
 import vocabList from './images/vocab-list.png'
 import tacticsApp from './images/tactics-app.png'
+import football from './images/football-analysis.png'
 
 export const repos = [
   {
@@ -72,6 +73,14 @@ export const repos = [
     pagesURL: 'https://awbridgers.github.io/bsd-bracket-challenge',
     image: bsdBracketChallenge,
     description: 'A bracket challenge made for BSD readers during the cancelled March Madness Tournament of 2020. Users selected and submitted a bracket which was then simulated using March Madness 2008 on XBox 360.'
+
+  },
+  {
+    title: "Football Analysis",
+    repoURL: 'https://github.com/awbridgers/football-analysis',
+    pagesURL: 'https://awbridgers.github.io/football-analysis',
+    image: football,
+    description: 'An app used to track football plays based on down, distance, play type, direction, and result. The plays are returned in spreadsheet format for easy sorting'
 
   },
   
