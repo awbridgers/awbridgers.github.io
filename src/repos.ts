@@ -5,6 +5,7 @@ import bsdBracketChallenge from './images/bsd-bracket-challenge.png'
 import tacticsTrainer from './images/tactics-trainer.png'
 import sc2Stats from './images/sc2-stats.png'
 import vocabList from './images/vocab-list.png'
+import tacticsApp from './images/tactics-app.png'
 
 export const repos = [
   {
@@ -37,7 +38,7 @@ export const repos = [
     title: "React Native Tactics",
     repoURL: 'https://github.com/awbridgers/tactics-app',
     pagesURL: 'https://www.dropbox.com/scl/fi/3t8ejiqnpa1gjek65umtv/tactics-trainer.apk?rlkey=79aonubufscl9mbve846ze06k&st=3od8pwhd&dl=0',
-    image: lineupDataViewer,
+    image: tacticsApp,
     description: 'A React Native tactics trainer to improve your chess on android.'
 
   },
