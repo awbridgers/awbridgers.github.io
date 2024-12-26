@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.3dd15f9a.css",
-    "main.js": "/static/js/main.f9c80fb5.js",
+    "main.js": "/static/js/main.3858fe9e.js",
     "static/media/movie-ratings.png": "/static/media/movie-ratings.1131e42f2f96be1a3567.png",
     "static/media/vocab-list.png": "/static/media/vocab-list.3d0bd82f96f3552c5841.png",
     "static/media/football-analysis.png": "/static/media/football-analysis.847173793d5b88583d68.png",
     "static/media/sc2-stats.png": "/static/media/sc2-stats.cdf4b7310c4bed850fca.png",
     "static/media/tactics-app.png": "/static/media/tactics-app.945fe4317ab865dab9b1.png",
     "static/media/tactics-trainer.png": "/static/media/tactics-trainer.f609e96870cb338d8648.png",
+    "static/media/stat-tracker.png": "/static/media/stat-tracker.cc9f90f6b16732903615.png",
     "static/media/bsd-bracket-challenge.png": "/static/media/bsd-bracket-challenge.49485abfc9aea7ba7ced.png",
     "static/media/lineup-data-viewer.png": "/static/media/lineup-data-viewer.f020768fb3a9d659bafe.png",
-    "static/media/stat-tracker.png": "/static/media/stat-tracker.f5eafebbb5ac6c5f600e.png",
     "static/media/live-stats-tracker.png": "/static/media/live-stats-tracker.659f06801422a284b78f.png",
     "index.html": "/index.html",
     "main.3dd15f9a.css.map": "/static/css/main.3dd15f9a.css.map",
-    "main.f9c80fb5.js.map": "/static/js/main.f9c80fb5.js.map"
+    "main.3858fe9e.js.map": "/static/js/main.3858fe9e.js.map"
   },
   "entrypoints": [
     "static/css/main.3dd15f9a.css",
-    "static/js/main.f9c80fb5.js"
+    "static/js/main.3858fe9e.js"
   ]
 }
