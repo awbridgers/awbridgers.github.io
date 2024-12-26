@@ -7,8 +7,17 @@ import sc2Stats from './images/sc2-stats.png'
 import vocabList from './images/vocab-list.png'
 import tacticsApp from './images/tactics-app.png'
 import football from './images/football-analysis.png'
+import statTracker from './images/stat-tracker.png'
 
 export const repos = [
+  {
+    title: "StatTracker",
+    repoURL: 'https://github.com/awbridgers/StatTracker',
+    pagesURL: 'https://github.com/awbridgers/StatTracker/releases',
+    image: statTracker,
+    description: 'An electron version of the Live Stats Tracker. This version allows users to save the roster and starting lineups locally.'
+
+  },
   {
     title: "Live Stats Tracker",
     repoURL: 'https://github.com/awbridgers/live-stats-tracker',
