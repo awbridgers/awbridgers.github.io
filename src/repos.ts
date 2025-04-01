@@ -8,6 +8,7 @@ import vocabList from './images/vocab-list.png'
 import tacticsApp from './images/tactics-app.png'
 import football from './images/football-analysis.png'
 import statTracker from './images/stat-tracker.png'
+import atomChess from './images/atom-chess.png'
 
 export const repos = [
   {
@@ -16,6 +17,14 @@ export const repos = [
     pagesURL: 'https://github.com/awbridgers/StatTracker/releases',
     image: statTracker,
     description: 'An electron version of the Live Stats Tracker. This version allows users to save the roster and starting lineups locally.'
+
+  },
+  {
+    title: "Atom Chess",
+    repoURL: 'https://github.com/awbridgers/atom-chess',
+    pagesURL: 'https://github.com/awbridgers/atom-chess/releases',
+    image: atomChess,
+    description: 'An electron version Chess GUI with Stockfish 17 built in.'
 
   },
   {
