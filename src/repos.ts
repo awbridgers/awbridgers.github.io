@@ -12,12 +12,12 @@ import atomChess from './images/atom-chess.png';
 
 export const repos = [
   {
-    title: 'Lineup Data Viewer',
-    repoURL: 'https://github.com/awbridgers/lineup-data-viewer',
-    pagesURL: 'https://awbridgers.github.io/lineup-data-viewer',
+    title: 'Deac Data',
+    repoURL: 'https://github.com/awbridgers/DeacData',
+    pagesURL: 'https://awbridgers.github.io/DeacData',
     image: lineupDataViewer,
     description:
-      'An app that takes raw data basketball data from Firebase and computes it into advanced statistics for easy viewing and analysis.',
+      'An app that calculates and displays Wake Forest Basketball lineup data.',
   },
   {
     title: 'Atom Chess',
